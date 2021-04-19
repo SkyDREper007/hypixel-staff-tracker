@@ -9,7 +9,7 @@ Davyd Malikov
 # Hypixel SkyBlock Staff Tracker
 The fastest Minecraft staff tracking bot you'll ever see!
 
-Licenced to SkyDREper007, read the [licence here](https://github.com/SkyDREper007/hypixel-staff-tracker/blob/main/LICENSE.md).
+Licenced to cayke, read the [licence here](https://github.com/SkyDREper007/hypixel-staff-tracker/blob/main/LICENSE.md).
 
 ## Forewarning
 While this is the fastest method of finding out staff members (with a possible API off) this is **use at your own risk**. Players spamming specific staff members may be punished for "cheating". We are not responsible if you are banned, please use with caution.
