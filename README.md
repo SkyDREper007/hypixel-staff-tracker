@@ -30,7 +30,7 @@ Download [NodeJS](https://nodejs.org/) and run `npm i` your terminal, ensuring y
 ```json
 {
   "email": "dreper@example.com",
-  "password": "WorkingIsBi69",
+  "password": "YoHello124!",
   "discordToken": "98yu289453yj245hu42hj254y3243u52u2uh42u6h2h",
   "discordGuild": "12345678912345",
   "discordChannel": "12345678912345"
